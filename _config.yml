@@ -1,7 +1,7 @@
 title: My Jekyll Site
 collections:
   staff_members:
+    output: true
     order:
       - jamil.md
       - ali.md
-
